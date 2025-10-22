@@ -58,7 +58,7 @@ For Mac or Linux:
 4. **Install Required Packages**
 
 ```sh
-pip install google-adk google-genai
+pip install google-adk google-generativeai
 ```
 
 ## Step-by-Step Guide: Building the Agent
